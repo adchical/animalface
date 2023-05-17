@@ -137,6 +137,7 @@ margin: auto;
 
 .section{
 	margin-top: 100px;
+	margin-right: 200px;
 }
 
 .title{
@@ -176,18 +177,18 @@ margin: auto;
 	font-family: NanumsquareR;
 	font-size: 1.5rem;
 	line-height: 1.71;
-	text-align: center;
+	text-align: left;
 	color: #f73757;
 	text-decoration: underline;
 }
 
 .youtube-link:hover {
-	font-family: NanumsquareR;
+	color: #008000;
+	/* font-family: NanumsquareR;
 	font-size: 1.5rem;
-	line-height: 1.71;
-	text-align: center;
-	color: #e81111;
-	text-decoration: underline;
+	line-height: 1.71; 
+	text-align: center; 
+	text-decoration: underline; */
 }
 
 .upload-text{
