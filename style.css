@@ -95,8 +95,8 @@ margin: auto;
 }
 
 .remove-image {
-  width: 200px;
-  margin: 0;
+  width: 305;
+  margin-top: 20px;
   color: #fff;
   background: #cd4535;
   border: none;
@@ -193,4 +193,21 @@ margin: auto;
 
 .upload-text{
 	font-size: 1.5rem;
+}
+
+
+.checkupbox{
+	
+}
+
+#label-container{
+	float: left		
+}
+
+
+
+.progress{
+	height: 30px;
+	padding-top : 5px;
+	padding-left : 7px;
 }
