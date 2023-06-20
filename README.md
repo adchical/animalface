@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 //goorm ide
+=======
+# goormIDE
+## 🔧 Tip & Guide
+
+>>>>>>> 9ef2d25e6769553c5d4f2f27c1c32f8ed3e447c1
 * Command feature
 	* You can simply run your script using the shortcut icons on the top right.
 	* Check out `PROJECT > Common/Build/Run/Test/Find Command` in the top menu.
